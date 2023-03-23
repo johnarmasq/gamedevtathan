@@ -1,10 +1,20 @@
 ---
 layout: home
 ---
-# About Theme
+# Bienvenidos
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+¡Hola! Mi nombre es Jonathan y soy un hacker a tiempo completo
+convertido en desarrollador de juegos indie en sus tiempos libres.
+Además de trabajar en tecnología y seguridad como pentester,
+también practico artes marciales como BJJ y MuayThai
+para mantenerme en forma y concentrado.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Desde que era niño, siempre soñé con hacer mis propios juegos.
+Ahora, con esta iniciativa, estoy en camino de hacer realidad ese sueño.
+Además, también tengo un gran interés por el arte
+y trato de incorporarlo en mis juegos siempre que sea posible.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+En mi tiempo libre, me encanta explorar nuevas ideas y tecnologías
+(Y hackear cosas random),
+así como también pasar tiempo con amigos, familiares y mis perras.
+¡Gracias por visitar mi página y espero que disfrutes mis juegos!

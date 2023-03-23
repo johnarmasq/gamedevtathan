@@ -1,8 +1,8 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: Devtathan Games
+description: Solo indie game developer
 url: https://johnarmasq.github.io/gamedevtathan
-logo: halve.png                                       # Site logo
+logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -31,22 +31,23 @@ sass:
 
 # Social Links
 #email:             email
-#google.plus:        username
+#google.plus:       username
 twitter:            devtathan
-#facebook:           username
-#github:             username
+#facebook:          username
+#github_link:       username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 instagram:          devtathan
-twitch:          devtathan
+twitch:             devtathan
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
-youtube:           UCWIVs_z2iyKnV62RoBKyPyA
+youtube:            UCWIVs_z2iyKnV62RoBKyPyA
+itch:               devtathan
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
