@@ -11,8 +11,8 @@
             {{ item.title }}
             {% unless item.completed %}
             <br><em>en desarrollo</em>
-            {% if site.jam %}<br><em>{% if site.hours %}hecho en {{item.hours}} horas {% endif %}para la jam {{item.jam}}</em>{% endif %}
             {% endunless %}
+            {% if item.jam %}<br><em>{{item.jam}} Jam</em><br>{% if item.hours %}<em>hecho en {{item.hours}} horas  </em>{% endif %}{% endif %}
           </span>
         </a>
         </li>

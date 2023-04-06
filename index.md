@@ -18,3 +18,5 @@ En mi tiempo libre, me encanta explorar nuevas ideas y tecnologías
 (Y hackear cosas random),
 así como también pasar tiempo con amigos, familiares y mis perras.
 ¡Gracias por visitar mi página y espero que disfrutes mis juegos!
+
+Paca contacto vayan [acá](https://gamedevtathan.com/contact.html)
