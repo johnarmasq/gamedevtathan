@@ -9,6 +9,10 @@
         {% assign class = "half" %}
     {% when 3 %}
         {% assign class = "third" %}
+    {% when 4 %}
+        {% assign class = "fourth" %}
+    {% when 5 %}
+        {% assign class = "fifth" %}
     {% else %}
         {% assign class = "" %}
 {% endcase %}

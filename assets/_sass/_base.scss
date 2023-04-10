@@ -179,6 +179,32 @@ figure {
       }
     }
   }
+  &.fourth {
+    @media only screen and (min-width: $small) {
+      > a, > img {
+        width: calc(25% - 4px);
+        float: left;
+        margin-left: 1px;
+        margin-right: 1px;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+  &.fifth {
+    @media only screen and (min-width: $small) {
+      > a, > img {
+        width: calc(20% - 2px);
+        float: left;
+        margin-left: 1px;
+        margin-right: 1px;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
 }
 
 @media only screen and (max-width: $small - 1px) {
