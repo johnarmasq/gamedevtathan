@@ -25,7 +25,7 @@ permalink: /apps/anchoring/press-kit-en.html
 
 **Developer:** Devtathan / John Armas
 
-**Release date:** TBA
+**Release date:** 19-04-2023
 
 **Price:** Free (PC 1 USD$)
 
