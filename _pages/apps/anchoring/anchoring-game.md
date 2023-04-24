@@ -74,3 +74,8 @@ la mejor puntuación
 
 [Español](https://gamedevtathan.com/apps/anchoring/press-kit-es.html)<br>
 [English](https://gamedevtathan.com/apps/anchoring/press-kit-en.html)
+
+### Legal
+
+[Terms & conditions](https://gamedevtathan.com/apps/anchoring/terms-and-conditions.html)<br>
+[Privacy policy](https://gamedevtathan.com/apps/anchoring/privacy-policy.html)
